@@ -9,6 +9,5 @@ export {default as Payment} from "./Payment";
 export {default as Products} from "./Products";
 export {default as Register} from "./Register";
 export {default as SingleProduct} from "./SingleProduct";
-export {default as WishList} from "./WishList";
 export {default as Landing} from "./Landing";
 
